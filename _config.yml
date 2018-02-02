@@ -47,7 +47,7 @@ disqus:
 # vimeo: myvimeo
 
 linkedin: bradley-rogers-b618294
-github: bradical3
+github: analogB
 goodreads: 65190081-bradical3
 email: bradrogersau@gmail.com
 
@@ -101,4 +101,4 @@ gems:
   - jekyll-gist
 
 jekyll-mentions:
-    base_url: https://github.com/bradical3
+    base_url: https://github.com/analogB
