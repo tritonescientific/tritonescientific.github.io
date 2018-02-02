@@ -18,7 +18,7 @@ miscellaneous links bellow.
 <br> <b>GEEK OUT</b> <br>
 <a target="_blank" href="https://netrunnerdb.com/">netrunnerdb</a> <br>
 <a target="_blank" href="https://www.jinteki.net/">jinteki.net</a> <br>
-<a target="_blank" href="http://io9.gizmodo.com/">i09 - pop scifi/fantasy/a> <br>
+<a target="_blank" href="http://io9.gizmodo.com/">i09 - pop scifi/fantasy</a> <br>
 
 <br><b>G's Blog</b> <br>
 <a href="www.ginarogersphotography.com">ginarogersphotography</a> <br>
@@ -28,8 +28,9 @@ miscellaneous links bellow.
 <a target="_blank" href="http://www.al.com/auburnfootball">au football @ al.com</a> <br>
 <a target="_blank" href="http://www.uwbadgers.com/schedule.aspx?path=mbball">wisconsin basketball</a> <br>
 <a target="_blank" href="http://iuhoosiers.com/schedule.aspx?path=mbball">indiana basketball</a> <br>
+<a target="_blank" href="https://www.ussoccer.com/womens-national-team">US Women's Soccer Team</a> <br>
 <a target="_blank" href="http://www.crossfit.com">crossfit</a> <br>
-<a target="_blank" href="http://cutterssoccer.org">crossfit</a> <br>
+<a target="_blank" href="http://cutterssoccer.org">cutters soccer</a> <br>
 
 <br> <b>JAZZ</b> <br>
 <a target="_blank" href="https://itunes.apple.com/us/album/alone-remastered/id417149">bill evans - alone</a> <br>
@@ -40,6 +41,8 @@ miscellaneous links bellow.
 <br><b>CONSULTANTS</b> <br>
 <a target="_blank" href="https://www.navigant.com/">navigant</a> <br>
 <a target="_blank" href="http://www.tierrarc.com/">tierra</a> <br>
+<a target="_blank" href="http://www.lumidyneconsulting.com/">lumidyne</a> <br>
+
 
 <br> <b>SCHOOLS</b> <br>
 <a target="_blank" href="http://www.eng.auburn.edu/">auburn engineering </a> <br>
