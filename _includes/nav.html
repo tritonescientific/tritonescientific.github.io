@@ -1,0 +1,90 @@
+<nav class="{% if page.title == "Home" %}nav-home{% else %}nav{% endif %}">
+    <ul class="list">
+        {% if page.title != "Home" %}
+            <li class="item">
+                <a class="link" href="{{ site.url }}/">
+                 <img class="selfie" width ="30px"  alt="{{ site.name }}" onmouseover="this.style.box-shadow='0 0px 4px 0 rgba(0,0,0,0.18), 0 0px 12px 0 rgba(0,0,0,0.15)
+'; this.style.opacity='0.8';" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" style="display:inline" />
+                </a>
+            </li>
+        {% endif %}
+
+        {% if site.about == true %}
+           {% if page.title == "about" %}
+                <li class="item">
+                    <a class ="link" color = "grey"><u>me</u></a></li>
+           {% endif %}
+           {% if page.title != "about" %}
+                <li class="item">
+                    <a class="link" href="{{ site.url }}/about">me</a>
+                </li>
+            {% endif %}
+        {% endif %}
+
+        {% if site.science == true %}
+           {% if page.title == "science" %}
+                <li class="item">
+                    <a class ="link" color = "grey"><u>science</u></a></li>
+           {% endif %}
+            {% if page.title != "science" %}
+                <li class="item">
+                    <a class="link" href="{{ site.url }}/science">science</a>
+                </li>
+            {% endif %}
+        {% endif %}
+
+        {% if site.blog == true %}
+           {% if page.title == "blog" %}
+                <li class="item">
+                    <a class ="link" color = "grey"><u>blog</u></a></li>
+           {% endif %}
+            {% if page.title != "blog" %}
+                <li class="item">
+                    <a class="link" href="{{ site.url }}/blog">blog</a>
+                </li>
+            {% endif %}
+        {% endif %}
+
+        {% if site.scifi == true %}
+           {% if page.title == "scifi" %}
+                <li class="item">
+                    <a class ="link" color = "grey"><u>scifi</u></a></li>
+           {% endif %}
+            {% if page.title != "scifi" %}
+                <li class="item">
+                    <a class="link" href="{{ site.url }}/scifi">scifi</a>
+                </li>
+            {% endif %}
+        {% endif %}
+
+        {% if site.research == true %}
+           {% if page.title == "research" %}
+                <li class="item">
+                    <a class ="link" color = "grey"><u>research</u></a></li>
+           {% endif %}
+            {% if page.title != "research" %}
+                <li class="item">
+                    <a class="link" href="{{ site.url }}/research">research</a>
+                </li>
+            {% endif %}
+        {% endif %}
+
+        {% if site.misc == true %}
+           {% if page.title == "misc" %}
+                <li class="item">
+                    <a class ="link" color = "grey"><u>misc.</u></a></li>
+           {% endif %}
+            {% if page.title != "misc" %}
+                <li class="item">
+                    <a class="link" href="{{ site.url }}/misc">misc.</a>
+                </li>
+            {% endif %}
+        {% endif %}
+
+        {% if site.resume == true %}
+            <li class="item">
+                <a class="link"  target="_blank" href="{% if site.resume-external %}{{ site.resume-url }}{% else %}{{ site.url }}/{{ site.resume-url }}{% endif %}">résumé</a>
+            </li>
+        {% endif %}
+    </ul>
+</nav>
