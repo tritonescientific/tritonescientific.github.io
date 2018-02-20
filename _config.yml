@@ -47,15 +47,15 @@ disqus:
 # vimeo: myvimeo
 
 linkedin: bradley-rogers-b618294
-github: analogB
+github: tritonescientific
 goodreads: 65190081-bradical3
 email: bradrogersau@gmail.com
 
 authors:
     brad rogers:
-        name: brad rogers
-        bio: it turns out that improbability is the greatest signifier.
-        external-image: false
+        name: Brad Rogers
+        bio: Brad Rogers has an SM in Engineering Systems from MIT and an MBA from MIT's Sloan School of Management. He is currently pursuing a PhD in Computational Psychology at Indiana University. He is the founder and Principal Consultant of Tritone Scientific. He has ten years of professional experience in the energy industry including demand side program evaluation, cost effectiveness, potential forecasting, market modeling, market transformation, grid modernization investments, and developing energy products. Brad has quantitative expertise in the fields of decision optimization, Monte Carlo simulation, system dynamics, risk analysis, machine learning, and statistics.
+        external-image: true
         picture: assets/images/profile.png
 
 # do you want a larger site? change the option below
