@@ -2,7 +2,7 @@
 title: about
 layout: page
 ---
-<img class="selfie" width ="90px"  alt="{{ site.name }}" onmouseover="this.style.box-shadow='0 0px 4px 0 rgba(0,0,0,0.18), 0 0px 12px 0 rgba(0,0,0,0.15)
+<img class="selfie" width ="300px" align="center" alt="{{ site.name }}" onmouseover="this.style.box-shadow='0 0px 4px 0 rgba(0,0,0,0.18), 0 0px 12px 0 rgba(0,0,0,0.15)
 '; this.style.opacity='0.8';" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" style="display:inline" />
 
 <p>Tritone Scientific provides analytic consulting services for electric industry clients bringing scientific rigor to answering business, policy, and regulatory questions. Tritone Scientific analyses withstand criticism of experienced industry experts, but are approachable and accessible to the full cross-section of industry stakeholders. Consulting services offered include statistics, forecasting, decision tools, and technical training.</p>
