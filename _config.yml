@@ -73,8 +73,8 @@ width: large
 about: true
 scifi: false
 science: false
-misc: true
-research: true
+misc: false
+research: false
 blog: true
 
 # do you want to show the "read time" of the posts?
