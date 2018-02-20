@@ -7,8 +7,8 @@ layout: page
 
 <p>Tritone Scientific provides analytic consulting services for electric industry clients bringing scientific rigor to answering business, policy, and regulatory questions. Tritone Scientific analyses withstand criticism of experienced industry experts, but are approachable and accessible to the full cross-section of industry stakeholders. Consulting services offered include statistics, forecasting, decision tools, and technical training.</p>
 
-<img class="selfie" width ="90px"  alt="{{ site.name }}" onmouseover="this.style.box-shadow='0 0px 4px 0 rgba(0,0,0,0.18), 0 0px 12px 0 rgba(0,0,0,0.15)
-'; this.style.opacity='0.8';" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" style="display:inline" />
+<img class="selfie" width ="300px" align="center" alt="{{ site.name }}" onmouseover="this.style.box-shadow='0 0px 4px 0 rgba(0,0,0,0.18), 0 0px 12px 0 rgba(0,0,0,0.15)
+'; this.style.opacity='0.8';" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/head.jpg{% endif %}" style="display:inline" />
 
 <p>Brad Rogers is the founder and Principal Consultant at Tritone Scientific. He has an SM in Engineering Systems from MIT and an MBA from MIT's Sloan School of Management. Brad has ten years of professional experience in the energy industry including demand side program evaluation, cost effectiveness, potential forecasting, market modeling, market transformation, grid modernization investments, and developing energy products. He has quantitative expertise in the fields of decision optimization, Monte Carlo simulation, system dynamics, risk analysis, machine learning, and statistics.</p>
 
